@@ -1,5 +1,5 @@
 O Adapter é um modelo estrutural que busca tornar a comunicação entre tipos diferente de interfaces
-tornando as duas inconversaveis entre si, por isso precisamos de uma classe adaptadora.
+tornando elas conversaveis entre si quando sem o Adaptador não seria possivel, por isso precisamos de uma classe adaptadora.
 Quando alguem vai até um país estrangeiro e precisamos de um tradutor para traduzir informações de residentes.
 o tradutor seria o adaptador que te passa a informação de uma forma que você entenda.
 Dando um exemplo simples.
